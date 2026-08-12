@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
 
-<h3 align="center">Senior .NET Developer | Azure Integration Developer | Full-Stack Engineer</h3>
+<h3 align="center">Senior .NET Developer | Windows Desktop & WPF Developer | Full-Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=8%2B+Years+Building+Enterprise+Applications;C%23+%7C+.NET+%7C+Azure+%7C+React.js;APIs+%7C+Cloud+Integration+%7C+Full-Stack+Development;Turning+Complex+Requirements+into+Reliable+Solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=8%2B+Years+Building+Enterprise+Applications;C%23+%7C+.NET+%7C+WPF+%7C+DevExpress;Windows+Desktop+%7C+Web+%7C+Full-Stack;Turning+Complex+Requirements+into+Reliable+Solutions" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -16,10 +16,11 @@
 
 ## 🚀 About Me
 
-- 💼 Senior .NET professional with **8+ years of experience** building enterprise web and desktop applications.
-- 🔗 Experienced in **Azure integration**, asynchronous messaging, SOAP/WCF services, and RESTful APIs.
-- 🧩 Full-stack developer working with **C#, ASP.NET Core, React.js, ExtJS, JavaScript, and SQL Server**.
+- 💼 Senior .NET professional with **8+ years of experience** building enterprise desktop and web applications.
+- 🖥️ Strong Windows application development experience using **WPF, WinForms, C#, .NET, and DevExpress**.
+- 🧩 Full-stack developer working with **C#, ASP.NET Core, React.js, Ext.js, JavaScript, and SQL Server**.
 - ☁️ Hands-on with **Azure Service Bus, Azure Functions, Blob Storage, Cosmos DB, App Service, and Managed Identity**.
+- 🔗 Recent working experience with **WCF/SOAP services** and asynchronous enterprise integrations.
 - 📐 Strong understanding of **SOLID principles, design patterns, Agile delivery, and CI/CD**.
 - ⚡ Improved API response time by approximately **30%** through query and payload optimisation.
 - 🤝 Experienced in code reviews, mentoring, production support, and cross-functional collaboration.
@@ -30,22 +31,35 @@
 
 ### Languages & Frameworks
 
-`C#` `ASP.NET Core` `.NET Framework` `ASP.NET MVC` `Web API` `WCF` `Entity Framework` `LINQ` `NServiceBus` `ML.NET`
+`C#` `.NET` `.NET Framework` `WPF` `WinForms` `DevExpress` `ASP.NET Core` `ASP.NET MVC` `Web API` `Entity Framework` `LINQ` `NServiceBus` `ML.NET`
 
 ### Frontend
 
-`React.js` `ExtJS` `JavaScript` `jQuery` `HTML5` `CSS3` `Bootstrap`
+`React.js` `Ext.js` `JavaScript` `jQuery` `HTML5` `CSS3` `Bootstrap`
 
 ### Cloud & DevOps
 
 `Microsoft Azure` `Azure Service Bus` `Azure Functions` `Blob Storage` `Cosmos DB` `Azure App Service` `Managed Identity` `Azure DevOps` `Terraform` `IIS`
 
-### Databases & Tools
+### Databases
 
-`SQL Server` `SQLite` `Visual Studio` `VS Code` `SSMS` `Postman` `Git` `TFS` `ServicePulse` `ServiceControl`
+`SQL Server` `SQLite`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,react,js,html,css,bootstrap,visualstudio,vscode,git,github,postman" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,react,js,html,css,bootstrap" alt="Core technology icons" />
+</p>
+
+### Development Tools
+
+`Visual Studio` `VS Code` `SSMS` `Postman` `Git` `TFS` `ServicePulse` `ServiceControl`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -66,9 +80,9 @@
 
 Enterprise healthcare integration platform for processing immigration medical examination messages between external and internal systems.
 
-**Highlights:** SOAP/WCF services, reliable asynchronous processing, validation, message orchestration, deployment, monitoring, and production support.
+**Highlights:** Enterprise message processing, validation, asynchronous orchestration, deployment, monitoring, and production support, with recent exposure to WCF/SOAP services.
 
-**Tech:** `C#` `.NET` `WCF` `ASP.NET Core Web API` `Azure Service Bus` `Azure Functions` `Blob Storage` `Cosmos DB` `NServiceBus` `SQL Server` `Terraform`
+**Tech:** `C#` `.NET` `ASP.NET Core Web API` `Azure Service Bus` `Azure Functions` `Blob Storage` `Cosmos DB` `NServiceBus` `SQL Server` `Terraform` `WCF/SOAP`
 
 ### 🏗️ SmartApps — Apps Mode
 
@@ -76,15 +90,15 @@ No-code enterprise platform that automates construction workflows using configur
 
 **Highlights:** Led full-stack enhancements, designed RESTful APIs, improved API response time by ~30%, and implemented ML.NET-based predictive features.
 
-**Tech:** `C#` `ASP.NET Core` `ExtJS` `React.js` `JavaScript` `jQuery` `SQL Server` `ML.NET`
+**Tech:** `C#` `ASP.NET Core` `Ext.js` `React.js` `JavaScript` `jQuery` `SQL Server` `ML.NET`
 
 ### 🎓 MCS — Education Operations Platform
 
 Enterprise platform covering inventory, cafeteria operations, point-of-sale transactions, and federal benefits processing.
 
-**Highlights:** Developed scalable modules, optimised database performance, created DevExpress UI components, and supported Azure deployments.
+**Highlights:** Developed and maintained Windows desktop and web modules, built rich WPF/DevExpress interfaces, optimised database performance, and supported Azure deployments.
 
-**Tech:** `C#` `.NET` `ASP.NET MVC` `REST APIs` `React.js` `DevExpress` `SQL Server` `Azure`
+**Tech:** `C#` `.NET` `WPF` `Windows Desktop` `ASP.NET MVC` `REST APIs` `React.js` `DevExpress` `SQL Server` `Azure`
 
 ### 🎮 Alpha Migration Project
 
@@ -145,7 +159,8 @@ Sri Krishna College of Engineering and Technology, Coimbatore
 
 ## 🎯 Current Focus
 
-- Building reliable enterprise integrations with .NET and Azure.
+- Building reliable Windows desktop and enterprise applications with C# and .NET.
+- Creating rich WPF user interfaces and data-driven components with DevExpress.
 - Designing scalable APIs and asynchronous messaging workflows.
 - Improving cloud deployment, monitoring, and DevOps practices.
 - Exploring practical applications of generative AI and ML.NET.
