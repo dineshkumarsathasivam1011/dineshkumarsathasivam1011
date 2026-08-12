@@ -54,12 +54,17 @@
 `Visual Studio` `VS Code` `SSMS` `Postman` `Git` `TFS` `ServicePulse` `ServiceControl`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45" alt="Visual Studio" title="Visual Studio" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server Management Studio" title="SQL Server Management Studio (SSMS)" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite" title="SQLite" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
 </p>
 
 ---
@@ -116,6 +121,14 @@ Accessible desktop application designed to help visually impaired users learn co
 
 **Tech:** `C#` `.NET Framework` `ASP.NET` `REST API` `SQLite` `ADO.NET` `SQL Server`
 
+### 🚗 FCM — First Car Market
+
+Web-based automobile marketplace for managing and displaying vehicle listings and related business operations.
+
+**Highlights:** Developed the application using ASP.NET MVC architecture, built responsive web pages, performed unit and integration testing, deployed the application to IIS, and supported production enhancements.
+
+**Tech:** `ASP.NET MVC` `C#` `SQL Server` `HTML` `CSS` `JavaScript` `Bootstrap` `IIS`
+
 ---
 
 ## 🏆 Highlights & Certifications
@@ -157,13 +170,15 @@ Sri Krishna College of Engineering and Technology, Coimbatore
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Goals
 
-- Building reliable Windows desktop and enterprise applications with C# and .NET.
-- Creating rich WPF user interfaces and data-driven components with DevExpress.
-- Designing scalable APIs and asynchronous messaging workflows.
-- Improving cloud deployment, monitoring, and DevOps practices.
-- Exploring practical applications of generative AI and ML.NET.
+- Building modern **.NET 10 full-stack applications** with ASP.NET Core, React.js, and clean architecture.
+- Designing secure, scalable REST APIs using current .NET practices, SOLID principles, and design patterns.
+- Exploring **.NET Aspire**, cloud-native development, microservices, containerisation, and distributed application patterns.
+- Strengthening Azure development with managed identities, messaging, serverless functions, observability, and CI/CD.
+- Improving application quality through automated testing, performance optimisation, caching, and resilient API design.
+- Exploring practical uses of generative AI, `Microsoft.Extensions.AI`, retrieval-augmented generation (RAG), GitHub Copilot, and ML.NET within enterprise applications.
+- Open and willing to work on **Windows desktop application development using WPF, WinForms, and DevExpress**, backed by strong previous experience, while my current learning focus remains modern .NET full-stack and cloud development.
 
 ---
 
