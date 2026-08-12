@@ -71,11 +71,11 @@
 
 ## 🧭 Professional Journey
 
-- **Senior Technical Analyst** — TriGyn Technologies (May 2026 – Present)
-- **Senior Solutions Engineer** — Pipra Solutions (Aug 2025 – Mar 2026)
-- **Senior Software Engineer** — Relevantz Technology Services (Aug 2024 – Jul 2025)
-- **Senior Software Engineer** — HTC Global Services (Jan 2022 – Jul 2024)
-- **Software Developer** — iAppsoft Solutions (Aug 2017 – Jan 2022)
+<p align="center">
+  <img src="./professional-journey.svg" alt="Professional journey showing verified employment history" width="900" />
+</p>
+
+---
 
 ---
 
