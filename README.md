@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
+<h1 align="center">Hi, I'm Dinesh Kumar</h1>
 
 <h3 align="center">Senior .NET Developer | Windows Desktop & WPF Developer | Full-Stack Engineer</h3>
 
