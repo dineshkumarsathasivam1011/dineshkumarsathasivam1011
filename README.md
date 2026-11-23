@@ -38,23 +38,28 @@ Visual Studio VS Code SSMS Postman Git TFS ServicePulse ServiceControl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
-</p>🧭 Professional Journey
-<p align="center">
-  <img src="https://img.shields.io/badge/CAREER_JOURNEY-2017_→_PRESENT-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Career journey from 2017 to present" />
-</p>🟢 Currently at TriGyn Technologies, Chennai
-Continuing a 9.3-year professional journey across enterprise desktop, web, full-stack, and integration solutions.
 
-	Organisation	Location	Period
-🟢	TriGyn Technologies
-<sub>CURRENT ORGANISATION</sub>	📍 Chennai, Tamil Nadu	May 2026 – Present
-🔵	Pipra Solutions	📍 Bengaluru, Karnataka	Aug 2025 – Mar 2026
-🔵	Relevantz Technology Services	📍 Chennai, Tamil Nadu	Aug 2024 – Jul 2025
-🔵	HTC Global Services	📍 Bengaluru, Karnataka	Jan 2022 – Jul 2024
-🔵	iAppsoft Solutions	📍 Hyderabad, Telangana	Aug 2017 – Jan 2022
-
+## 🧭 Professional Journey
 
 <p align="center">
-  <sub>Hyderabad&nbsp;&nbsp;→&nbsp;&nbsp;Bengaluru&nbsp;&nbsp;→&nbsp;&nbsp;Chennai&nbsp;&nbsp;→&nbsp;&nbsp;Bengaluru&nbsp;&nbsp;→&nbsp;&nbsp;Chennai</sub>
+  <img src="https://img.shields.io/badge/CAREER_JOURNEY-2017_→_PRESENT-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Career Journey" />
+</p>
+
+> 🟢 **Currently at TriGyn Technologies, Chennai**  
+> Continuing a **9.3-year professional journey** across enterprise desktop, web, mobile, full-stack, and integration solutions.
+
+| | Organisation | Location | Period |
+|:--:|:--|:--|:--|
+| 🟢 | **TriGyn Technologies**<br><sub>CURRENT ORGANISATION</sub> | 📍 Chennai, Tamil Nadu | **May 2026 – Present** |
+| 🔵 | **Pipra Solutions** | 📍 Bengaluru, Karnataka | Aug 2025 – Mar 2026 |
+| 🔵 | **Relevantz Technology Services** | 📍 Chennai, Tamil Nadu | Aug 2024 – Jul 2025 |
+| 🔵 | **HTC Global Services** | 📍 Bengaluru, Karnataka | Jan 2022 – Jul 2024 |
+| 🔵 | **iAppsoft Solutions** | 📍 Hyderabad, Telangana | Aug 2017 – Jan 2022 |
+
+<p align="center">
+  <sub>Hyderabad → Bengaluru → Chennai → Bengaluru → Chennai</sub>
+</p>
+
 </p>🚀 Selected Projects
 📱 eMigrate — Xamarin.Forms to .NET MAUI Migration
 Modernization of an existing enterprise mobile application from Xamarin.Forms to .NET MAUI to support current mobile platforms and improve maintainability.
